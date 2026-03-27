@@ -1,4 +1,6 @@
 Welcome to Ollama Model Manager "O.M.M."
+If you like this try out openwebui-manager for installing and managing openwebui for a web based gui for your ollama models
+"https://github.com/NotADeveloper4665/openwebui-manager"
 
 -How to Install O.M.M.
 
